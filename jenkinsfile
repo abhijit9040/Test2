@@ -22,6 +22,6 @@ pipeline {
                     echo "Output from JAR: ${output}"
                 }
             }
-        }
+   }
     }
 }
